@@ -1,0 +1,7 @@
+<suite name="unit" verbose="1">
+    <test name="test gradle">
+        <classes>
+            <class name="Main"></class>
+        </classes>
+    </test>
+</suite>
